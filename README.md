@@ -8,8 +8,22 @@
 
 ## My Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=luizrantunes&count_private=true&theme=dark&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizrantunes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/luizrantunes">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=luizrantunes&show_icons=true&include_all_commits=true&count_private=true&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/luizrantunes">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrantunes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=dark"
+    />
+  </a>
+</p>
 
 ## Technologies
 
