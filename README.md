@@ -29,4 +29,5 @@
 
 ### Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizrantunes/)](https://www.linkedin.com/in/luizrantunes/)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luizrantunes/](https://www.instagram.com/luizrantunes/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/luizrantunes/)](https://www.instagram.com/luizrantunes/)
+
