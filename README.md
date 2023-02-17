@@ -1,5 +1,4 @@
 <h2>Opaaa!!! Luiz Antunes aqui! Belezinha?! 👋😄</h2>
-![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 
 - 💻 Atualmente trabalho como Software Quality Assurance Engineer.
