@@ -1,6 +1,6 @@
 ## Sou o Luiz Antunes, belezinha?! 👋😄 </br>
 
-- 💻 Atualmente trabalho como Quality  Engineer na Neon.
+- 💻 Atualmente trabalho como Quality Engineer na Neon.
 
 - 🚧 Estava estudando Java e Kotlin para migrar para a área de mobile como desenvolvedor Android nativo, porém, recentemente mudei o foco para C# por conta de novas demandas.
 
@@ -9,7 +9,7 @@
 ## My Stats
 
 <p align="center">
-  <a href="https://github.com/luizrantunes">
+  <!--<a href="https://github.com/luizrantunes">
     <img
       align="center"
       height="150em"
@@ -21,6 +21,20 @@
       align="center"
       height="150em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrantunes&layout=compact&theme=dark"
+    />
+  </a>-->
+  <a href="https://github.com/luizrantunes">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=luizrantunes&show_icons=true&theme=dark"
+    />
+  </a>
+  <a href="https://github.com/luizrantunes">
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizrantunes&layout=compact&show_icons=true&theme=dark"
     />
   </a>
 </p>
