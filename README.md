@@ -13,7 +13,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=luizrantunes&show_icons=true&theme=dark"
+      src="https://github-readme-stats.vercel.app/api?username=luizrantunes&count_private=true&theme=dark&show_icons=true"
     />
   </a>
   <a href="https://github.com/luizrantunes">
@@ -27,7 +27,7 @@
     <img
       align="center"
       height="150em"
-      src="https://github-readme-stats.vercel.app/api?username=luizrantunes&count_private=true&theme=dark&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=luizrantunes&show_icons=true&theme=dark"
     />
   </a>
   <a href="https://github.com/luizrantunes">
