@@ -1,6 +1,6 @@
 ## Sou o Luiz Antunes, belezinha?! 👋😄 </br>
 
-- 💻 Atualmente trabalho como Software Engineer na Neon.
+- 💻 Atualmente trabalho como Software Engineer.
 
 - 🚧 Recentemente mudei o foco e estou estudando C# por conta de novas demandas.
 
