@@ -1,8 +1,8 @@
 ## Sou o Luiz Antunes, belezinha?! 👋😄 </br>
 
-- 💻 Atualmente trabalho como Software Engineer.
+- 💻 Atualmente trabalho como Quality Assurance Engineer.
 
-- 🚧 Recentemente mudei o foco e estou estudando C# por conta de novas demandas.
+- 🚧 Estudando automação por conta de novas demandas.
 
 - ⚡ Um fato ligado a programação é que comecei estudando HTML, CSS e Javascript lá em 2008. Depois voltei a estudar novamente em 2015 a linguagem Java com orientação a objetos. E mais recentemente retornei em definitivo com foco total.
 
