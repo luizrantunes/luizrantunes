@@ -15,7 +15,7 @@
 ```typescript
 const luizAntunes = {
     role: "Quality Assurance Engineer",
-    company: "Auvo Tecnologia",
+    company: "Antunes Tech",
     experience: "12+ anos em tecnologia",
     focus: ["Test Automation", "E2E Testing", "CI/CD Pipelines"],
     currentStack: {
